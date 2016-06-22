@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import SearchBar from './components/search_bar';
 
-const API_KEY = ''
+const API_KEY = ENV[YOUTUBE_KEY];
 
 // create a new component which produces some html
 const App = () => {
