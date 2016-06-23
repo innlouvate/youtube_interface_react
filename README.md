@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# Simple React interface for youtube
+Real-time search and play youtube videos in a simplified interface.  
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
+####Run#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+	> git clone https://github.com/innlouvate/youtube_interface_react.git
+	> cd youtube_interface_react
 	> npm install
 	> npm start
 ```
